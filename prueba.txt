@@ -1,3 +1,6 @@
 Hola, buenos días.
 Somos Gabriela Morales y Manuel Rodriguez
 Version 0.1
+
+
+Archivo modificado y cambiado por Manuel, demostrando que el uso del git ha sido sencillo para nosotros.
